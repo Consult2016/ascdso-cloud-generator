@@ -10,7 +10,7 @@ import (
 
 	rice "github.com/GeertJohan/go.rice"
 	mux "github.com/gorilla/mux"
-	"github.com/wickett/word-cloud-generator/wordyapi"
+	"github.com/Consult2016/ascdso-cloud-generator/wordyapi"
 )
 
 // TextSubmission is a json title and string to submit
